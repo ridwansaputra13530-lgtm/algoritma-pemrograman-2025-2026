@@ -1,4 +1,3 @@
-
 nama = "Ridwan"
 umur = 18
 tinggi = 170.5

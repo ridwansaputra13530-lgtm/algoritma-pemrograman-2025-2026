@@ -1,4 +1,3 @@
-
 # Menginput Alas dan Tinggi Segitiga
 alas = float(input('Input Alas: '))
 tinggi = float(input('Input Tinggi: '))
