@@ -1,0 +1,11 @@
+x = 5
+y = 10
+
+# karena x lebih kecil dari y adalah benar, maka kode didalam scope statement if akan dijalankan
+if (x < y):
+    print("x lebih kecil dari y") # ini akan dijalankan
+
+# karena x lebih besar dari y adalah salah, maka kode di dalam scope statement if tidak akan dijalankan
+if (x > y):
+    print("x lebih besar dari y") # ini tidak akan dijalankan
+    
